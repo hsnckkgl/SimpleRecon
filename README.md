@@ -1,2 +1,2 @@
 # How to Use:
-## python3 SimpleRecon.py "\n<url>\n"
+## python3 SimpleRecon.py "url"
